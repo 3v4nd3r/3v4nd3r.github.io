@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+*{
+    
+    padding: 0;
+}
+body{
+    background-color: rgb(20, 20, 43);
+    color: white;
+    text-align: center;
+}
+
+div {
+    width: 170px;
+    height: 170px;
+    background-color: black;
+    margin: 5px;
+    border-radius: 70px 0px;
+    display: inline-block;
+}
+
+.st {
+    background-color: rgb(252, 29, 96);
+}
+
+.ds {
+    background-color: rgb(6, 143, 116);
+}
+
+.f1 {
+    background-color: rgb(67, 66, 66);
+}
+
+.f2 {
+    background-color: rgb(134, 125, 125);
+}
+
